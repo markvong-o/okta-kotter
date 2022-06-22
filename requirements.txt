@@ -18,4 +18,5 @@ simple-rest-client==1.0.2
 simplejson==3.17.2
 tinydb==4.2.0
 URLObject==2.4.3
+markupsafe==2.0.1
 werkzeug==0.16.1  # do not overwrite
