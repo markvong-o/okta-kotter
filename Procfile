@@ -1,1 +1,1 @@
-web: gunicorn wsgi:app
+web: gunicorn okta_multidemo:app --workers 16
