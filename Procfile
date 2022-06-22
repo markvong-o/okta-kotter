@@ -1,1 +1,1 @@
-web: gunicorn okta_multidemo:app --workers 16
+web: gunicorn okta_multidemo.app:app --workers 16
